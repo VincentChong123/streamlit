@@ -1,3 +1,5 @@
 /tutorial-env
 /data
+/.ipynb_checkpoints
+/streamlit-venv
 .zip

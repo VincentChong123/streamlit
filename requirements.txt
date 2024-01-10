@@ -1,3 +1,5 @@
-zipfile
+notebook
+#zipfile
 streamlit
 scikit-learn
+numpy
